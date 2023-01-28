@@ -3,7 +3,7 @@
 According to Kepler's Third Law, the orbital period  T
   of two point masses orbiting each other in a circular or elliptic orbit is:
   
-  > T = 2 \pi \sqrt{\frac{a^{3}}{\mu}}
+ > T=2πa3μ−−−√
  - a
   is the orbit's semi-major axis
 - μ=GM
