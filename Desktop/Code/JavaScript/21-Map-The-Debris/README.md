@@ -6,7 +6,7 @@ According to Kepler's Third Law, the orbital period  T
  > $T = 2 \pi \sqrt{\frac{a^{3}}{\mu}}$
  - $\alpha$
   is the orbit's semi-major axis
-- $\$
+- μ=GM
  is the standard gravitational parameter
 - G
  is the gravitational constant,
