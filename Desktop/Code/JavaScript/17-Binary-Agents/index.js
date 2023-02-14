@@ -5,7 +5,7 @@ function binaryAgent(str) {
     let words = elements.map(function (elem){
       let decimal = 0;
       for (let i=elem.length; i>0; i--){
-        decimal += elem[i-1](2*(elem.length-i));
+        decimal += elem[i-1]*(2**(elem.length-i));
       };
       return decimal;
     });
